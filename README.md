@@ -62,4 +62,4 @@ The Supabase project used during development is paused (free plan), so the produ
 
 ## Credits
 
-Idea, product decisions and design by **Muhammed Selim / ZeminMedia**, inspired by existing QR ordering products. The code was written with AI assistance (Claude).
+Idea, product decisions and design by **Muhammed Selim**, inspired by existing QR ordering products. The code was written with AI assistance (Claude).

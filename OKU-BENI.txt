@@ -1,0 +1,13 @@
+MASA SISTEMI - DOSYALAR
+
+site/   -> Cloudflare'e yuklenecek 5 sayfa
+  index.html    musteri (QR ile acilir: ?masa=N&k=TOKEN)
+  staff.html    yonetici + QR sayfasi (owner)
+  kitchen.html  mutfak
+  service.html  garson
+  cashier.html  kasa
+sql/    -> Supabase > SQL Editor'de bu sirayla calistir
+  1) setup.sql  2) security.sql  3) security_roles.sql
+masa-demo.html  -> internetsiz localStorage demosu
+
+Personel rolu: security_roles.sql sonundaki ornek insert satirlari.
